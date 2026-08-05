@@ -83,10 +83,23 @@ void test4(){
     return;
 }
 
+
+// test5 不定数量数据输入
+// practice 1.4.3
+void test5(){
+    int sum = 0,val = 0;
+    while(std::cin >> val){
+        sum += val;
+    }
+    std::cout << sum << std::endl;
+    return;
+}
+
 int main(){
     test1();
     test2();
     test3();
     test4();
+    test5();
     return 0;
 }
