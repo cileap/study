@@ -1,5 +1,5 @@
 # Day1
-
+## 1.iostream
 ```cpp
 #include <iostream>
 /* iostream 是 iostream 和 ostream
@@ -13,7 +13,7 @@ int main(){
     return 0;
 }
 ```
-
+## cout cin << >>
 ```cpp
 int main(){
     int v1 = 0,v2 = 0;
@@ -34,4 +34,17 @@ int main(){
  * 
 /
 ```
+
+## 控制流
+
+### while语句
+反复执行一段代码，知道给定条件为假时为止
+
+### for语句
+在循环条件中检测变量，在循环体中定义、改变变量
+注意循环头的末尾，变量改变是在循环体结束之后改变
+
+
+
+
 
