@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63c9aeab42eb268c",
+        "id": "955825dc389f5d80",
         "type": "tabs",
         "children": [
           {
-            "id": "bb36d557331ba6bc",
+            "id": "bde34b733885139d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,26 +19,45 @@
               },
               "icon": "lucide-file",
               "title": "Day3"
-            }
+            },
+            "group": "d613c037e98c14e4"
           }
         ]
       },
       {
-        "id": "29368961ca179352",
+        "id": "910aaef1a60eace0",
         "type": "tabs",
         "children": [
           {
-            "id": "a288a0c048d4b5bc",
+            "id": "64c93e3f9e3a49fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "Day1.md",
-                "mode": "source",
-                "source": false
+                "file": "Day3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Day1"
+              "icon": "lucide-list",
+              "title": "Day3 的大纲"
+            },
+            "group": "d613c037e98c14e4"
+          }
+        ]
+      },
+      {
+        "id": "c29a7ea69c69702d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c49cebca787e29c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -61,7 +80,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -103,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214.16668701171875
   },
   "right": {
     "id": "b92ac621942ce401",
@@ -119,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +205,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "afe4559c32b11d02",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,20 +235,26 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bb36d557331ba6bc",
+  "active": "3c49cebca787e29c",
   "lastOpenFiles": [
-    "Day1.md",
-    "未命名.md",
-    "README.md",
-    "未命名",
     "Day3.md",
+    "README.md",
+    "C++关键字表.md",
     "Day2.md",
+    "编程语言类型.md",
     "未命名.canvas",
+    "类型语言.md",
+    "静态类型语言.md.tmp.33376.1b28268029ea",
+    "Day1.md",
+    "programming-assessment.md",
+    "未命名.base",
+    "2026-08-07.md",
+    "未命名.md",
+    "未命名",
     "Markdown 编写指南.md",
     "C++ Primer 使用指南.md",
     "欢迎.md",
     "创建链接.md",
-    "programming-assessment.md",
     "github-learning-guide.md",
     "day2_prac.exe",
     "day2_prac.cpp",
