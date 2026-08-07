@@ -3,7 +3,7 @@
 ## 1.iostream
 ```cpp
 #include <iostream>
-/* iostream 是 iostream 和 ostream
+/* iostream 包含 istream 和 ostream
  分别表示输入流和输出流
  一个流是一个字符序列，stream想要表达的是：
  随着时间的推移，字符是顺序生成或消耗的
@@ -33,13 +33,13 @@ int main(){
  * cout 和 << 同理，只是ostream而已，不多赘述
  * 
  * 
-/
+*/
 ```
 
 ## 3.控制流
 
 ### 3.1 while语句
-反复执行一段代码，知道给定条件为假时为止
+反复执行一段代码，直到给定条件为假时为止
 
 ### 3.2 for语句
 在循环条件中检测变量，在循环体中定义、改变变量

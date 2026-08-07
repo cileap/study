@@ -28,7 +28,7 @@
 > 实际大小因编译器和平台而异。**C++ 只保证 `short ≤ int ≤ long ≤ long long`。**
 
 **带符号和无符号**：
-- 默认带符号（`signed`），如 `int` = `signed int`
+- 默认带符号（`signed`），如 `int` = `signed int`（注：`char` 例外，是否带符号由编译器决定）
 - 无符号加 `unsigned`：`unsigned int`，范围 0 ~ 2^n-1
 - 混用有/无符号会有意料之外的类型转换，**建议统一用有符号**（除了位运算场景）
 

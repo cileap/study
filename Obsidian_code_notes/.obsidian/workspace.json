@@ -6,6 +6,7 @@
       {
         "id": "955825dc389f5d80",
         "type": "tabs",
+        "dimension": 39.6859386152748,
         "children": [
           {
             "id": "bde34b733885139d",
@@ -27,6 +28,7 @@
       {
         "id": "910aaef1a60eace0",
         "type": "tabs",
+        "dimension": 26.98072805139186,
         "children": [
           {
             "id": "64c93e3f9e3a49fd",
@@ -49,6 +51,7 @@
       {
         "id": "c29a7ea69c69702d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "3c49cebca787e29c",
@@ -138,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Day3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,9 +240,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3c49cebca787e29c",
+  "active": "bde34b733885139d",
   "lastOpenFiles": [
+    "Day1.md",
+    "Day3.md.tmp.38608.47daf6a13049",
+    "Day2.md.tmp.38608.6beb020a4a4f",
+    "Day1.md.tmp.38608.470f5e8a6bf5",
     "Day3.md",
+    "Day3.md.tmp.38608.9c85c8f67dd3",
     "README.md",
     "C++关键字表.md",
     "Day2.md",
@@ -245,7 +255,6 @@
     "未命名.canvas",
     "类型语言.md",
     "静态类型语言.md.tmp.33376.1b28268029ea",
-    "Day1.md",
     "programming-assessment.md",
     "未命名.base",
     "2026-08-07.md",
@@ -258,7 +267,6 @@
     "github-learning-guide.md",
     "day2_prac.exe",
     "day2_prac.cpp",
-    "day1_prac.exe",
-    "day1_prac.cpp"
+    "day1_prac.exe"
   ]
 }
