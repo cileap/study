@@ -1,4 +1,3 @@
-# Day2
 
 ## 写在前面
 
@@ -192,6 +191,12 @@ decltype((i)) k = i; // 注意：(i) 是表达式，结果是 int&
 ```
 
 > `decltype` vs `auto`：auto 会算值然后推类型；decltype 只看类型不算值。
+
+
+
+
+
+
 
 
 

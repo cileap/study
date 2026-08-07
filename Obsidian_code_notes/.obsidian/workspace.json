@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dde6f53ab5b301f",
+        "id": "63c9aeab42eb268c",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e15b11a3c88e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          },
-          {
-            "id": "b7aa4857f6606f3d",
+            "id": "bb36d557331ba6bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,21 +21,24 @@
               "title": "Day3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "b823743c0d6d7933",
+        "id": "29368961ca179352",
         "type": "tabs",
         "children": [
           {
-            "id": "2a94e3b08df4a0ac",
+            "id": "a288a0c048d4b5bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Day1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day1"
             }
           }
         ]
@@ -130,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,20 +206,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2a94e3b08df4a0ac",
+  "active": "bb36d557331ba6bc",
   "lastOpenFiles": [
-    "programming-assessment.md",
+    "Day1.md",
+    "未命名.md",
+    "README.md",
+    "未命名",
+    "Day3.md",
+    "Day2.md",
+    "未命名.canvas",
     "Markdown 编写指南.md",
+    "C++ Primer 使用指南.md",
+    "欢迎.md",
+    "创建链接.md",
+    "programming-assessment.md",
     "github-learning-guide.md",
     "day2_prac.exe",
     "day2_prac.cpp",
-    "Day2.md",
     "day1_prac.exe",
-    "day1_prac.cpp",
-    "day1.md",
-    "C++ Primer 使用指南.md",
-    "README.md",
-    "Day3.md",
-    "欢迎.md"
+    "day1_prac.cpp"
   ]
 }
