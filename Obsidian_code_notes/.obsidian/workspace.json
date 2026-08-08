@@ -4,54 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "955825dc389f5d80",
+        "id": "c29a7ea69c69702d",
         "type": "tabs",
-        "dimension": 39.6859386152748,
+        "dimension": 40.25695931477516,
         "children": [
           {
-            "id": "bde34b733885139d",
+            "id": "d7c3d7e9ce21cd93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3.md",
+                "file": "Day4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day3"
+              "title": "Day4"
             },
-            "group": "d613c037e98c14e4"
+            "group": "3f84b120d6f38b58"
           }
         ]
       },
       {
-        "id": "910aaef1a60eace0",
+        "id": "89dcd1028f2f25e2",
         "type": "tabs",
-        "dimension": 26.98072805139186,
+        "dimension": 14.41827266238401,
         "children": [
           {
-            "id": "64c93e3f9e3a49fd",
+            "id": "cc2df9e0c453893d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3.md",
-                "followCursor": false,
+                "file": "Day4.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Day3 的大纲"
+              "title": "Day4 的大纲"
             },
-            "group": "d613c037e98c14e4"
+            "group": "3f84b120d6f38b58"
           }
         ]
       },
       {
-        "id": "c29a7ea69c69702d",
+        "id": "9a484162836aa6b8",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 45.32476802284083,
         "children": [
           {
             "id": "3c49cebca787e29c",
@@ -141,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,33 +238,34 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bde34b733885139d",
+  "active": "3c49cebca787e29c",
   "lastOpenFiles": [
+    "Day4.md",
+    "github-learning-guide.md",
+    "IEEE754浮点数.md",
+    "Day4.md.tmp.36908.a504d49f1694",
+    "IEEE754浮点数.md.tmp.36908.0e69200bb0a3",
+    "Day4.md.tmp.36908.968b526fcf78",
+    "编程语言类型.md",
+    "C++关键字表.md",
+    "programming-assessment.md",
+    "Markdown 编写指南.md",
+    "README.md",
+    "Day3.md",
     "Day1.md",
     "Day3.md.tmp.38608.47daf6a13049",
     "Day2.md.tmp.38608.6beb020a4a4f",
     "Day1.md.tmp.38608.470f5e8a6bf5",
-    "Day3.md",
     "Day3.md.tmp.38608.9c85c8f67dd3",
-    "README.md",
-    "C++关键字表.md",
     "Day2.md",
-    "编程语言类型.md",
     "未命名.canvas",
     "类型语言.md",
     "静态类型语言.md.tmp.33376.1b28268029ea",
-    "programming-assessment.md",
     "未命名.base",
     "2026-08-07.md",
-    "未命名.md",
     "未命名",
-    "Markdown 编写指南.md",
     "C++ Primer 使用指南.md",
     "欢迎.md",
-    "创建链接.md",
-    "github-learning-guide.md",
-    "day2_prac.exe",
-    "day2_prac.cpp",
-    "day1_prac.exe"
+    "创建链接.md"
   ]
 }
